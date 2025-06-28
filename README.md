@@ -11,7 +11,7 @@ Make sure you have Docker and Docker Compose installed.
 ### Run the Project
 
 ```bash
-docker-compose up
+docker-compose up --build
 ```
 
 This will start the FastAPI server on `http://localhost:8000`.
